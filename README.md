@@ -6,7 +6,7 @@ This is a simple minimalistic example of sending the same message back and forth
 * connect to the server
 * create the message
 
-[in loop]
+[in a loop]
 
 * send the message to the server
 * read expected reply 
